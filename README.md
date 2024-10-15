@@ -1,2 +1,2 @@
 # Learning
-To Store all my learnings and practise materials here.
+Store all my learning and practice materials.
